@@ -11,6 +11,8 @@
   
 # Languages I Have Experience With
 <code><img height="32" src="visuals/java.svg"></code>
+<code><img height="32" src="visuals/c++.svg"></code>
+<code><img height="32" src="visuals/python.svg"></code>
 <code><img height="32" src="visuals/typescript.svg"></code>
 
 <br />
