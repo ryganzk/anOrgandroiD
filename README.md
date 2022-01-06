@@ -10,6 +10,9 @@
 - 💿 An EP somewhere down the line if I can muster the courage to scream into my mic at 2AM
   
 # Languages I Have Experience With
+<code><img height="32" src="visuals/java.svg"></code>
 <code><img height="32" src="visuals/typescript.svg"></code>
 
-<div />
+<br />
+
+</div>
