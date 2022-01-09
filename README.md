@@ -6,7 +6,8 @@
 - [x] Drink three pounds of root beer and crash on the living room sofa
 
 # Shit I'm Workin On
-- 👺***SMT Rapture*** - A battle simulator based on the SMT franchise
+- 👺 ***SMT Rapture*** - A battle simulator based on the SMT franchise
+- 👿 ***BeelzeBot*** - A Discord bot that is extremely vocal on hatred of you
 - 💿 An EP somewhere down the line if I can muster the courage to scream into my mic at 2AM
   
 # Languages I Have Experience With
