@@ -1,14 +1,13 @@
 <div align='left'> 
 
-# The Absolute Catastrophe I Call My Life
-- [ ] Beat the amount of weight my roommates can bench
-- [ ] Call my grandmother back to see if she got my Christmas present
-- [x] Drink three pounds of root beer and crash on the living room sofa
+# How My Life's Going
+- [x] Going to the gym six days a week, doing the Schwartzenegger split routine
+- [x] Gradually honing my software engineering and social skills
+- [ ] Having successes in my dating life
 
-# Shit I'm Workin On
+# Current Projects
 - 👺 ***SMT Rapture*** - A battle simulator based on the SMT franchise
 - 👿 ***BeelzeBot*** - A Discord bot that grants you incredible power... for a hefty price
-- 💿 An EP somewhere down the line if I can muster the courage to scream into my mic at 2AM
   
 # Languages I Have Experience With
 <code><img height="32" src="visuals/java.svg"></code>
