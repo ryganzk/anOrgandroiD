@@ -1,13 +1,14 @@
 <div align='left'> 
 
-# How My Life's Going
-- [x] Going to the gym six days a week, doing the Schwartzenegger split routine
-- [x] Gradually honing my software engineering and social skills
-- [ ] Having successes in my dating life
-
 # Current Projects
 - 👺 ***SMT Rapture*** - A battle simulator based on the SMT franchise
+  
+# Previous Projects
+- 🎶 ***SMD To Txt*** - A tool used for editing music within a PMD ROM
+  
+# Projects on Indefinite Hiatus
 - 👿 ***BeelzeBot*** - A Discord bot that grants you incredible power... for a hefty price
+- 🦖 ***Dinomaton*** - A Discord bot that let the user create a draft league for the game Fossil Fighters Champions
   
 # Languages I Have Experience With
 <code><img height="32" src="visuals/java.svg"></code>
