@@ -3,7 +3,7 @@
 # Current Projects
 - 👺 ***SMT Rapture*** - A battle simulator based on the SMT franchise
   
-# Previous Projects
+# Completed Projects
 - 🎶 ***SMD To Txt*** - A tool used for editing music within a PMD ROM
   
 # Projects on Indefinite Hiatus
